@@ -1,0 +1,3 @@
+In devops we learn the protocols and practices to be a successfull DevOps engineer, like
+analyzing and evaluating developer operation implementations and executing hands-on
+work with industry standard tools.
