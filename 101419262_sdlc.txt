@@ -1,5 +1,2 @@
-this is my first line
-this is my 2nd line
-this is my 3rd line
-adding new line
-devops class is fun
+The Importance of learning DevOps in the software development cycle is to automate the process of software delivery and infrastructure changes. 
+DevOps is a combination of software development and IT operations that aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
