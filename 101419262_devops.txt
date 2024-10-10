@@ -1,0 +1,1 @@
+COMP3104 DevOps class is all about learning DevOps tools and techniques to implement CI/CD pipelines and help automate the software development lifecycle.
