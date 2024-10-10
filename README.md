@@ -22,3 +22,9 @@ in `.github/workflows/ci.yml`.
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are
 merged into the `main` branch via Pull Requests.
+
+## Prerequisites
+Before setting up the project, make sure you have the following installed:
+- **Git**: Version control system ([Download Git](https://git-scm.com/downloads))
+- **Node.js**: Required if the project includes any JavaScript/Node-related tools ([Download Node.js](https://nodejs.org/))
+- **An IDE or text editor**: Such as VS Code ([Download VS Code](https://code.visualstudio.com/))
